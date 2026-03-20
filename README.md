@@ -27,8 +27,8 @@
 ### Для Linux/macOS/WSL:
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/yourusername/git-sync-tool.git
-cd git-sync-tool
+git clone https://github.com/kirikonecheck/PullPushTool.git
+cd PullPushTool
 
 # Сделайте скрипт исполняемым
 chmod +x sync_repo.sh
