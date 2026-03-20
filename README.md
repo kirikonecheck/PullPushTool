@@ -31,7 +31,7 @@ git clone https://github.com/kirikonecheck/PullPushTool.git
 cd PullPushTool
 
 # Сделайте скрипт исполняемым
-chmod +x sync_repo.sh
+chmod +x tool.sh
 
 # (Опционально) Добавьте в PATH
-sudo ln -s $(pwd)/sync_repo.sh /usr/local/bin/git-sync
+sudo ln -s $(pwd)/tool.sh /usr/local/bin/git-sync
